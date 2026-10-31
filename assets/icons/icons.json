@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/marieui-karagianni-psychologos-icon.svg"
+ },
+ "source_md5": "b4fd0332184275af6a6a1ddc77d4475c",
+ "version": "b77b5668",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "2ce37a759801c1c673e2b07036ee5642"
+ ],
+ "made": "2026-10-31"
+}
